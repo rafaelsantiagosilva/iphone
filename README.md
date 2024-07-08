@@ -30,48 +30,56 @@ Iphone: Classe principal que contém uma instância de cada um dos aplicativos a
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/projeto-smartphone.git
+   `git clone https://github.com/rafaelsantiagosilva/iphone.git`
 
-1. Navegue até o diretório do projeto:
-   cd projeto-smartphone
+2. Navegue até o diretório do projeto:
 
-1. Compile as classes Java:
+   `cd projeto-smartphone`
 
-   javac -d bin src/smartphone/\*_/_.java
+3. Compile as classes Java:
 
-1. Execute a classe principal:
+   `javac -d bin src/smartphone/`
 
-   java -cp bin smartphone.Iphone
+4. Execute a classe principal:
+
+   `java -cp bin smartphone.Iphone`
 
 ## Funcionalidades
 
 ### Musica
+
 Play e pause de músicas.
 Exibição de informações das músicas.
 
 ### Playlist
+
 Mudança de músicas dentro da playlist.
 Play e pause da playlist.
 Exibição de informações da playlist.
 
 ### IPod
+
 Tocar e pausar playlists.
 Criação e exclusão de playlists.
 Exibição de informações do IPod.
 
 ### Clima
+
 Previsão de temperatura e clima.
 Exibição de informações do aplicativo de clima.
 
 ### PaginaWeb
+
 Abertura e fechamento de páginas web.
 Exibição de informações das páginas web.
 
 ### Safari
+
 Abertura e fechamento de abas.
 Abertura de páginas web.
 Exibição de informações do navegador.
 
 ### AparelhoTelefonico
+
 Atender, recusar e encerrar ligações.
 Exibição de informações do aplicativo de telefone.
