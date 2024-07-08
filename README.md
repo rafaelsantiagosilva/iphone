@@ -48,38 +48,38 @@ Iphone: Classe principal que contém uma instância de cada um dos aplicativos a
 
 ### Musica
 
-Play e pause de músicas.
-Exibição de informações das músicas.
+- Play e pause de músicas.
+- Exibição de informações das músicas.
 
 ### Playlist
 
-Mudança de músicas dentro da playlist.
-Play e pause da playlist.
-Exibição de informações da playlist.
+- Mudança de músicas dentro da playlist.
+- Play e pause da playlist.
+- Exibição de informações da playlist.
 
 ### IPod
 
-Tocar e pausar playlists.
-Criação e exclusão de playlists.
-Exibição de informações do IPod.
+- Tocar e pausar playlists.
+- Criação e exclusão de playlists.
+- Exibição de informações do IPod.
 
 ### Clima
 
-Previsão de temperatura e clima.
-Exibição de informações do aplicativo de clima.
+- Previsão de temperatura e clima.
+- Exibição de informações do aplicativo de clima.
 
 ### PaginaWeb
 
-Abertura e fechamento de páginas web.
-Exibição de informações das páginas web.
+- Abertura e fechamento de páginas web.
+- Exibição de informações das páginas web.
 
 ### Safari
 
-Abertura e fechamento de abas.
-Abertura de páginas web.
-Exibição de informações do navegador.
+- Abertura e fechamento de abas.
+- Abertura de páginas web.
+- Exibição de informações do navegador.
 
 ### AparelhoTelefonico
 
-Atender, recusar e encerrar ligações.
-Exibição de informações do aplicativo de telefone.
+- Atender, recusar e encerrar ligações.
+- Exibição de informações do aplicativo de telefone.
